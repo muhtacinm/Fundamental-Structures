@@ -4,7 +4,6 @@
 
 This program multiplies two square matrices and a matrix and a scalar
 
-
 ### Features
 
 1. Matrix A * Matrix B
